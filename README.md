@@ -31,3 +31,4 @@ If you find INQ useful in your research, please consider citing:
 ## Tips:
 
 1. Real-time data shuffling is useful
+# INQ_trainable
